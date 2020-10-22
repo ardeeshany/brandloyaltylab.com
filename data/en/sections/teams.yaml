@@ -1,0 +1,33 @@
+# section information
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 7
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: Roozbeh Irani Kermani
+# your company information
+company:
+  name: Sam Houston University
+  url: "https://www.linkedin.com/in/roozbehirani"
+
+# your resume. this file path should be relative to you "static" directory
+resume: "https://www.shsu.edu/academics/agriculture/documents/2018-cv/Roozbeh-Irani_CV_09-2018.pdf?language_id=1"
+
+# a summary about you
+summary: Assistant Professor at Sam Houston State University
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "erxi006@SHSU.EDU"
+
+- name: Github
+  icon: "fab fa-github"
+  url: "https://github.com/ardeeshany/brandloyaltylab.com"
+

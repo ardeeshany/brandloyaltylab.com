@@ -6,6 +6,7 @@ section:
   weight: 1
   showOnNavbar: true
   template: sections/about.html
+  hideTitle: true
 
 # your designation
 designation:
@@ -23,10 +24,6 @@ summary: Here are some information about the ongoing projects.
 # your social links
 # give as many as you want. use font-awesome for the icons.
 socialLinks:
-- name: Email
-  icon: "fas fa-envelope"
-  url: "example@gmail.com"
-
 - name: Github
   icon: "fab fa-github"
   url: "https://github.com/ardeeshany/brandloyaltylab.com"

@@ -1,0 +1,33 @@
+# section information
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 7
+  showOnNavbar: false
+  template: sections/about.html
+
+# your designation
+designation: Ardalan Mirshani
+# your company information
+company:
+  name: Novartis
+  url: "mirshani.com"
+
+# your resume. this file path should be relative to you "static" directory
+resume: ""
+
+# a summary about you
+summary: Senior Expert Data Science at Advance Methodology and Data Science group, Novartis.
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "erxi006@SHSU.EDU"
+
+- name: Github
+  icon: "fab fa-github"
+  url: "https://github.com/ardeeshany/brandloyaltylab.com"
+
