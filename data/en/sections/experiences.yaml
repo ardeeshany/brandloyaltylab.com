@@ -13,7 +13,7 @@ experiences:
 - company:
     name: U.S. Beer Retail Market
     url:
-    location: Dhaka Branch
+    location:
     # company overview
     overview: Accommodating Heterogeneity in Brand Loyalty Estimation
   positions:
