@@ -28,8 +28,8 @@ markup:
     renderer:
       unsafe: true
   tableOfContents:
-    startLevel: 2
-    endLevel: 6
+    startLevel: 2  # headings from h2
+    endLevel: 6    # headings to h6.
     ordered: false
 
 # Enable Google Analytics
@@ -66,4 +66,4 @@ params:
   # Provide newsletter configuration. This feature hasn't been implemented yet.
   # Currently, you can just hide it from the footer.
   newsletter:
-    enable: true
+    enable: false
