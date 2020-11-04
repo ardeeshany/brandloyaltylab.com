@@ -16,9 +16,9 @@ menu:
 slug: brand_loylty_beer_results
 ---
 
-Details will be updated soon!
+## Details will be updated soon!
 
 ```{r showChoro1, echo = F, out.width='100%'}
 #htmltools::includeHTML("BL_results.html")
-knitr::include_url("/htmls/beer/model_summaries.html", height = 7200)
+knitr::include_url("/htmls/beer/model_summaries.html", height = 7600)
 ```
