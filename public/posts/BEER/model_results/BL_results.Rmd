@@ -12,7 +12,7 @@ menu:
     name: Mixed Multinomial Logit Model Results
     identifier: bl_beer_result
     parent: beer-market
-    weight: 10
+    weight: 30
 slug: brand_loylty_beer_results
 ---
 

@@ -1,24 +1,25 @@
 ---
-title: "Household Summaries"
+title: "Lambda"
 description: Here is the summaries of household information.
 author: 
   name: "Roozbeh Irani Kermani & Ardalan Mirshani"
   image: "/images/authors/roozbeh.jpeg"
 date: 2020-10-25
-hero: /posts/BEER/household_summaries/hh_summaries_files/selected_states.jpg
+hero: /posts/BEER/01_Lambda/Lambda_files/density.png
 output: html_document
 menu:
   sidebar:
-    name: Household Summaries
-    identifier: hh_summaries
+    name: Lambda
+    identifier: lambda
     parent: beer-market
-    weight: 20
-slug: brand_loylty_hh_summaries
+    weight: 10
+slug: brand_loylty_lambda
 ---
 
 ## Will be updated Soon!
 
 ```{r showChoro1, echo = F, out.width='100%'}
 #htmltools::includeHTML("BL_results.html")
-knitr::include_url("/htmls/beer/hh_summaries.html", height = 800)
+knitr::include_url("/htmls/beer/lambda.html", height = 800)
 ```
+![](/01_Lambda/Lambda_files/density.png)
