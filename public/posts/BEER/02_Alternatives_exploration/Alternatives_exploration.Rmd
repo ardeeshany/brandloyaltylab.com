@@ -1,0 +1,25 @@
+---
+title: "ALternative Exploration"
+description: Here is the summaries of household information.
+author: 
+  name: "Ardalan Mirshani & Roozbeh Irani Kermani"
+  image: "/images/authors/roozbeh.jpeg"
+date: 2020-10-25
+hero: /posts/BEER/01_Lambda/Lambda_files/density.png
+output: html_document
+menu:
+  sidebar:
+    name: Alternatives_exploration
+    identifier: alternatives_exploration
+    parent: beer-market
+    weight: 20
+slug: brand_loylty_alternatives_exploration
+---
+
+## Will be updated Soon!
+
+```{r showChoro1, echo = F, out.width='130%'}
+#htmltools::includeHTML("BL_results.html")
+knitr::include_url("/htmls/beer/Alternatives_exploration.html", height = 800)
+```
+![](/01_Lambda/Lambda_files/density.png)

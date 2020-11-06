@@ -12,7 +12,7 @@ menu:
     name: Household Summaries
     identifier: hh_summaries
     parent: beer-market
-    weight: 20
+    weight: 30
 slug: brand_loylty_hh_summaries
 ---
 
