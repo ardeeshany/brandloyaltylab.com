@@ -2,7 +2,7 @@
 title: "Mixed Multinomial Logit Model results"
 description: Here is the Mixed Multinomial Logit Model results on the 10 USA states.
 author: 
-  name: "Ardalan Mirshani"
+  name: "Ardalan Mirshani & Roozbeh Irani Kermani"
   image: "/images/authors/ardalan.jpeg"
 date: 2020-10-25
 hero: /posts/BEER/model_results/BL_results_files/selected_states.jpg
