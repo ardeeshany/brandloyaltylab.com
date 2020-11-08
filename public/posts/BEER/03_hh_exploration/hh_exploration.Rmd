@@ -1,0 +1,21 @@
+---
+title: "Household Exploration"
+description: Here is the summaries of household information.
+author: 
+  name: "Ardalan Mirshani & Roozbeh Irani Kermani"
+  image: "/images/authors/ardalan.jpeg"
+date: 2020-10-25
+hero: /posts/BEER//03_hh_exploration/hh_exploration_files/hh_exp.png
+output: html_document
+menu:
+  sidebar:
+    name: Household_exploration
+    identifier: household_exploration
+    parent: beer-market
+    weight: 30
+slug: brand_loylty_hh_exploration
+---
+
+```{r showChoro1, echo = F, out.width='100%'}
+knitr::include_url("/htmls/beer/hh_exploration.html", height = 1400)
+```
